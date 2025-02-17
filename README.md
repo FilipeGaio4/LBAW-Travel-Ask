@@ -1,3 +1,5 @@
+###Group project forked (dev by Filipe Gaio, Filipe Correira, Francisco Fernandes, Lara Coelho)
+
 ## Project
 The Travel&Ask project is a Q&A platform aimed at facilitating global travel knowledge sharing. It provides users with the ability to ask questions, share experiences, and access tailored information about destinations, safety, accommodations, and more.
 With our product, users can post and browse questions/answers with full-text, multiple attributes and filtered search. They can order results (most-viewed, most-voted, publication date).
